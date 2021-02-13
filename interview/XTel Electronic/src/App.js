@@ -36,7 +36,7 @@ function App() {
           </Switch>
         </div>
         <div className="jumbotron text-center margin-bottom:0">
-          <p>IT18018042 -  Rathnakumara G.G.K.M</p>
+          <p>Rathnakumara G.G.K.M</p>
         </div>
       </Router>
 
